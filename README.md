@@ -138,7 +138,8 @@ r = v^2 * s;
 
 # Output
 
-![WhatsApp Image 2025-11-27 at 21 17 53_26a3c6ed](https://github.com/user-attachments/assets/bf21b3de-66b4-43a7-99f1-adaad8fea6da)
+<img width="1600" height="836" alt="image" src="https://github.com/user-attachments/assets/a29a2549-7173-423e-9910-7e710c0b3739" />
+
 
 
 ![WhatsApp Image 2025-11-27 at 21 17 53_6ef7477a](https://github.com/user-attachments/assets/1fa55dc8-4f6c-42a3-8f07-4fbeab2c14ac)
